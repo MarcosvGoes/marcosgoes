@@ -8,7 +8,6 @@ export default function Work() {
             <p className="border-2 border-white">3</p>
             <p className="border-2 border-white">4</p>
             <p className="border-2 border-white">5</p>
-            teste
             </section>
         </main>
     )
