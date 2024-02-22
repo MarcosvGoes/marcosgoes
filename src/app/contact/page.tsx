@@ -1,7 +1,7 @@
 export default function Contact() {
     return (
         <main>
-            teste
+            testee
         </main>
     )
 }
